@@ -8,9 +8,9 @@
 * 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
 * 📈 **Common Core Completion:** 22% (Level 4.04 / 21)
 
-```
+
 Progress: [████░░░░░░░░░░░░░░░░] 22%
-```
+
 
 ---
 
