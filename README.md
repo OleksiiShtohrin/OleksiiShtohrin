@@ -7,7 +7,7 @@
 ### 💼 Experience & Professional Journey
 
 #### 🌐 Web Designer & Developer (Freelance)
-*Feb 2017 - Present*
+*February 2017 - Present*
 *   Building custom websites (HTML/CSS, JS, PHP) for international clients via Upwork.
 *   Theme configuration and custom deployment on CMS platforms (WordPress, OpenCart, MODX).
 
@@ -15,8 +15,12 @@
 *May 2021 - Present*
 *   Creating 3D models and environments utilizing Unreal Engine 5, ZBrush, and Blender for interactive systems and real-time visualization.
 
----
+#### 🎓 42 Cursus
+*January 2026 - Present*
+*   A software engineering student at 42 Urduliz Bizkaia (Fundación Telefónica & Diputación Foral de Bizkaia, Spain).
+*   I specialize in low-level programming, systems administration, object-oriented design, and algorithms.
 
+---
 ### 📊 42 Stats & Curriculum
 * 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
 * 📈 **Common Core Completion:** 36% (Level 4.80 / 21)
@@ -24,12 +28,9 @@
 
 Progress: [███████░░░░░░░░░░░░░] 36%
 
----
-
-### 🎓 42 Network Progress & Projects
 
 <details>
-<summary><b>🚀 👉 Click to view my 42 Milestones & Exams 👈</b></summary>
+<summary><b>🚀 👉 Click to view my 42 Milestones, Network Progress & Projects 👈</b></summary>
 
 <br>
 
