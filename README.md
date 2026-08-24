@@ -6,10 +6,10 @@
 
 ### 📊 42 Stats & Curriculum
 * 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
-* 📈 **Common Core Completion:** 22% (Level 4.04 / 21)
+* 📈 **Common Core Completion:** 36% (Level 4.80 / 21)
 
 
-Progress: [████░░░░░░░░░░░░░░░░] 22%
+Progress: [███████░░░░░░░░░░░░░] 36%
 
 
 ---
@@ -42,27 +42,32 @@ Progress: [████░░░░░░░░░░░░░░░░] 22%
 ### 🎓 42 Network Progress & Projects
 
 <details>
-<summary><b>🚀 Click to view my 42 Milestones & Exams</b></summary>
+<summary><b>🚀 👉 Click to view my 42 Milestones & Exams 👈</b></summary>
 
 <br>
 
-#### 🛠️ Completed 42 Milestones  **[Repository](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz)**
+#### 🛠️ Completed 42 Milestones  ->  **👉[Repository](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz)👈**
 
 | Project | Language | Focus / Highlights |
 | :--- | :---: | :--- |
-| **Libft** | `C` | Recreated C standard library functions for solid memory manipulation foundations. |
-| **ft_printf** | `C` | Recreated the standard formatting output function using variadic arguments. |
-| **get_next_line** | `C` | Designed an efficient file descriptor line-reading utility using static buffers. |
-| **push_swap** | `C` | Optimized data sorting algorithm on stacks using limited sorting operations. |
-| **Born2beroot** | `Shell` | Configured secure virtualized environments with customized firewall and Sudo setups. |
-| **Python 00-10** | `Python` | Deep dive into OOP, class architecture, decorators, Pydantic, and functional programming. |
-| **A-Maze-ing** | `Python` | Developed a procedural maze generator and visualizer complying with custom constraints. |
-| **Fly-In** | `Python` | Autonomous multi-drone routing simulation featuring graph parsing and concurrent pathfinding. |
-| **Codexion** | `C` | Multi-threaded race simulation implementing POSIX threads, mutexes, and EDF scheduling. |
+| **[Libft](./Libft)** | `C` | Recreated C standard library functions for solid memory manipulation foundations. |
+| **[ft_printf](./M.1/ft_printf)** | `C` | Recreated the standard formatting output function using variadic arguments. |
+| **[get_next_line](./M.1/get_next_line)** | `C` | Designed an efficient file descriptor line-reading utility using static buffers. |
+| **[push_swap](./M.1/push_swap)** | `C` | Optimized data sorting algorithm on stacks using limited sorting operations. |
+| **[Born2beroot](./M.2/Born2beroot)** | `Shell` | Configured secure virtualized environments with customized firewall and Sudo setups. |
+| **[Python 00-10](./M.2/)** | `Python` | Deep dive into OOP, class architecture, decorators, Pydantic, and functional programming. |
+| **[A-Maze-ing](./M.2/A-Maze-ing)** | `Python` | Developed a procedural maze generator and visualizer complying with custom constraints. |
+| **[Fly-in](./M.3/Fly-in)** | `Python` | Autonomous multi-drone routing simulation featuring graph parsing and concurrent pathfinding. |
+| **[Codexion](./M.3/Codexion)** | `C` | Multi-threaded race simulation implementing POSIX threads, mutexes, and EDF scheduling. |
+| **[Call Me Maybe](./M.3/Call-Me-Maybe)** | `Python` | LLM-based function calling system using constrained decoding to translate natural language into structured JSON outputs. |
+| **[Pac-Man](https://github.com/aurelienog/pacman)** | `Python` | Recreated the classic Pac-Man arcade game with a modern modular architecture and clean project structure. |
+| **[NetPractice](./M.4/NetPractice)** | `Network` | Solved complex networking routing cases, subnetting, TCP/IP addressing, and gateway configurations. |
+| **[RAG against the machine](./M.4/RAG_AgainstTheMachine)** | `In Progress` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines. |
 
 #### 🏆 Exams & Ranks Validated
 *   **Exam Rank 02** (Validated: March 17, 2026)
 *   **Exam Rank 03** (Validated: May 13, 2026)
+*   **Exam Rank 04** (Validated: July 30, 2026)
 
 </details>
 
