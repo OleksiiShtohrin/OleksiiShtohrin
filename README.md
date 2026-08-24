@@ -4,28 +4,6 @@
 
 ---
 
-### 📊 42 Stats & Curriculum
-* 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
-* 📈 **Common Core Completion:** 36% (Level 4.80 / 21)
-
-
-Progress: [███████░░░░░░░░░░░░░] 36%
-
-
----
-
-### 🛠️ Tech Stack & Creative Toolkit
-
-| 💻 Coding Stack | 🎨 Creative & 3D Toolkit |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" /><br> <img src="https://img.shields.io/badge/ZBrush-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Premier_Pro-773AB4?style=flat-square&logo=adoberemierpro&logoColor=white" /> <br> |
-
----
-### 📣 Languages:
-* Ukrainian / Russian (Native)
-* Spanish / English (Fluent) 
----
-
 ### 💼 Experience & Professional Journey
 
 #### 🌐 Web Designer & Developer (Freelance)
@@ -36,6 +14,15 @@ Progress: [███████░░░░░░░░░░░░░] 36%
 #### 🎮 3D & Game Design Specialist
 *May 2021 - Present*
 *   Creating 3D models and environments utilizing Unreal Engine 5, ZBrush, and Blender for interactive systems and real-time visualization.
+
+---
+
+### 📊 42 Stats & Curriculum
+* 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
+* 📈 **Common Core Completion:** 36% (Level 4.80 / 21)
+
+
+Progress: [███████░░░░░░░░░░░░░] 36%
 
 ---
 
@@ -71,4 +58,17 @@ Progress: [███████░░░░░░░░░░░░░] 36%
 
 </details>
 
+
+---
+
+### 🛠️ Tech Stack & Creative Toolkit
+
+| 💻 Coding Stack | 🎨 Creative & 3D Toolkit |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" /><br> <img src="https://img.shields.io/badge/ZBrush-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Premier_Pro-773AB4?style=flat-square&logo=adoberemierpro&logoColor=white" /> <br> |
+
+---
+### 📣 Languages:
+* Ukrainian / Russian (Native)
+* Spanish / English (Fluent) 
 ---
