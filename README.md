@@ -1,10 +1,21 @@
-# ⚡ Web & Game Designer | 3D Artist | Software Developer
 
-> Creative Technologist bridging the gap between low-level system efficiency and high-fidelity interactive design. Combining robust C/Python software engineering skills from 42 Urduliz with a rich background in 3D art, web design, and game development.
+<table width="100%">
+  <tr>
+    <td >
+      <img src="img/top.png" width="1200" align="center"/>
+    </td>
+    <td>
+      <strong>⚡ Web & Game Designer | 3D Artist | Software Developer</strong><br>
+      <br>
+      Creative Technologist bridging the gap between low-level system efficiency and high-fidelity interactive design. Combining robust C/Python software engineering skills from 42 Urduliz with a rich background in 3D art, web design, and game development.
+    </td>
+  </tr>
+</table>
 
----
+
 
 ### 💼 Experience & Professional Journey
+---
 
 #### 🌐 Web Designer & Developer (Freelance)
 *February 2017 - Present*
