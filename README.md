@@ -38,19 +38,19 @@ Progress: [███████░░░░░░░░░░░░░] 36%
 
 | Project | Language | Focus / Highlights |
 | :--- | :---: | :--- |
-| **[Libft](./Libft)** | `C` | Recreated C standard library functions for solid memory manipulation foundations. |
-| **[ft_printf](./M.1/ft_printf)** | `C` | Recreated the standard formatting output function using variadic arguments. |
-| **[get_next_line](./M.1/get_next_line)** | `C` | Designed an efficient file descriptor line-reading utility using static buffers. |
-| **[push_swap](./M.1/push_swap)** | `C` | Optimized data sorting algorithm on stacks using limited sorting operations. |
-| **[Born2beroot](./M.2/Born2beroot)** | `Shell` | Configured secure virtualized environments with customized firewall and Sudo setups. |
-| **[Python 00-10](./M.2/)** | `Python` | Deep dive into OOP, class architecture, decorators, Pydantic, and functional programming. |
-| **[A-Maze-ing](./M.2/A-Maze-ing)** | `Python` | Developed a procedural maze generator and visualizer complying with custom constraints. |
-| **[Fly-in](./M.3/Fly-in)** | `Python` | Autonomous multi-drone routing simulation featuring graph parsing and concurrent pathfinding. |
-| **[Codexion](./M.3/Codexion)** | `C` | Multi-threaded race simulation implementing POSIX threads, mutexes, and EDF scheduling. |
-| **[Call Me Maybe](./M.3/Call-Me-Maybe)** | `Python` | LLM-based function calling system using constrained decoding to translate natural language into structured JSON outputs. |
+| **[Libft](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/Libft)** | `C` | Recreated C standard library functions for solid memory manipulation foundations. |
+| **[ft_printf](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.1/ft_printf)** | `C` | Recreated the standard formatting output function using variadic arguments. |
+| **[get_next_line](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.1/get_next_line)** | `C` | Designed an efficient file descriptor line-reading utility using static buffers. |
+| **[push_swap](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.1/push_swap)** | `C` | Optimized data sorting algorithm on stacks using limited sorting operations. |
+| **[Born2beroot](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.2/Born2beroot)** | `Shell` | Configured secure virtualized environments with customized firewall and Sudo setups. |
+| **[Python 00-10](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.2)** | `Python` | Deep dive into OOP, class architecture, decorators, Pydantic, and functional programming. |
+| **[A-Maze-ing](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.2/A-Maze-ing)** | `Python` | Developed a procedural maze generator and visualizer complying with custom constraints. |
+| **[Fly-in](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.3/Fly-in)** | `Python` | Autonomous multi-drone routing simulation featuring graph parsing and concurrent pathfinding. |
+| **[Codexion](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.3/Codexion)** | `C` | Multi-threaded race simulation implementing POSIX threads, mutexes, and EDF scheduling. |
+| **[Call Me Maybe](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.3/Call-Me-Maybe)** | `Python` | LLM-based function calling system using constrained decoding to translate natural language into structured JSON outputs. |
 | **[Pac-Man](https://github.com/aurelienog/pacman)** | `Python` | Recreated the classic Pac-Man arcade game with a modern modular architecture and clean project structure. |
-| **[NetPractice](./M.4/NetPractice)** | `Network` | Solved complex networking routing cases, subnetting, TCP/IP addressing, and gateway configurations. |
-| **[RAG against the machine](./M.4/RAG_AgainstTheMachine)** | `In Progress` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines. |
+| **[NetPractice](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.4/NetPractice)** | `Network` | Solved complex networking routing cases, subnetting, TCP/IP addressing, and gateway configurations. |
+| **[RAG against the machine](https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.4/RAG_AgainstTheMachine)** | `In Progress` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines. |
 
 #### 🏆 Exams & Ranks Validated
 *   **Exam Rank 02** (Validated: March 17, 2026)
@@ -73,3 +73,28 @@ Progress: [███████░░░░░░░░░░░░░] 36%
 * Ukrainian / Russian (Native)
 * Spanish / English (Fluent) 
 ---
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.2/A-Maze-ing">
+        <img src="img/Amazeing.png" width="100%" alt="A-Maze-ing"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.3/Fly-in">
+        <img src="img/Fly-in.png" width="100%" alt="Fly-in"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OleksiiShtohrin/Cadet-at-42Cursus-Urduliz/tree/main/M.3/Codexion">
+        <img src="img/Codexion.png" width="100%" alt="Codexion"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/aurelienog/pacman">
+        <img src="img/Pac-man.png" width="100%" alt="Pac-man"/>
+      </a>
+    </td>
+  </tr>
+</table>
