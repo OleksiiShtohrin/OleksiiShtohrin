@@ -36,12 +36,15 @@
 * 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
 * 📈 **Common Core Completion:** 36% (Level 4.80 / 21)
 
-
 Progress: [███████░░░░░░░░░░░░░] 36%
 
+**🚀 Highlights:**
+* ✅ **22** validated projects
+* ⏱️ **970+ hours** of rigorous coursework
+<br>
 
 <details>
-<summary><b>🚀 👉 Click to view my 42 Milestones, Network Progress & Projects 👈</b></summary>
+<summary><b> 👉 Click to view my 42 Milestones, Network Progress & Projects 👈</b></summary>
 
 <br>
 
@@ -75,9 +78,45 @@ Progress: [███████░░░░░░░░░░░░░] 36%
 
 ### 🛠️ Tech Stack & Creative Toolkit
 
-| 💻 Coding Stack | 🎨 Creative & 3D Toolkit |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" /><br> <img src="https://img.shields.io/badge/ZBrush-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Premier_Pro-773AB4?style=flat-square&logo=adoberemierpro&logoColor=white" /> <br> |
+<table width="100%">
+  <tr>
+    <th width="16%">⚙️ Languages</th>
+    <th width="16%">🔌 Backend</th>
+    <th width="16%">🖥️ Frontend</th>
+    <th width="16%">🎨 Creative</th>
+    <th width="16%">📦 3D Toolkit</th>
+    <th width="16%">🛠️ Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" /><br />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&amp;logo=adobephotoshop&amp;logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Premiere_Pro-470137?style=flat-square&amp;logo=adobepremierepro&amp;logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&amp;logo=unrealengine&amp;logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&amp;logo=blender&amp;logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/ZBrush-000000?style=flat-square" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" /><br />
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&amp;logo=git&amp;logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 ### 📣 Languages:
